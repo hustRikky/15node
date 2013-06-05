@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/global.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/index.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/lib/xnode.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/node_modules/cache/index.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/node_modules/cache/lib/cache.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/node_modules/cache/lib/job.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/node_modules/cache/test.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/node_modules/colors/test.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/node_modules/router/index.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/node_modules/router/lib/router.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules/xnode/test.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/routes/Home.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/routes/index.js" libraries="{Node.js v0.10.8 Core Modules}" />
+    <includedPredefinedLibrary name="Node.js Globals" />
+  </component>
+</project>
+

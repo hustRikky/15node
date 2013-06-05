@@ -1,0 +1,19 @@
+{
+"server":
+{
+"ip":"127.0.0.1"
+, "port":"80"
+, "session_secure_value":"xnode-rikky"
+}
+
+, "database":
+{
+
+}
+
+, "error":
+{
+"e404":"shared/e404"
+, "e500":"shared/e500"
+}
+}
